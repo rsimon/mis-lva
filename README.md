@@ -2,7 +2,7 @@
 
 This dataset contains metada records of (mostly) historic coins. Each records includes a
 geographical coordinate (or a bounding box), which represents the find spot. Most of the records
-also includes a time interval, which represents the dating of the coin.
+also include a time interval, which represents the dating of the coin.
 
 ## Data Format and Contents
 
