@@ -19,8 +19,7 @@ JSON object contains:
 
 ## Files
 
-* The recommended dataset for the seminar topic "Map" is:  
-  [data/coins-with-coordinates.json.txt.zip](https://github.com/rsimon/mis-lva/blob/master/data/coins-with-coordinates.json.txt.zip?raw=true). This is a (compressed) plaintext file, containing one JSON object per line.
+* The recommended dataset for the seminar topic "Map" is:    [data/coins-with-coordinates.json.txt.zip](https://github.com/rsimon/mis-lva/blob/master/data/coins-with-coordinates.json.txt.zip?raw=true).
 
 * The recommended dataset for the seminar topic "Timeline" is:
   [data/coins-with-time.json.txt](https://github.com/rsimon/mis-lva/blob/master/data/coins-with-time.json.txt.zip?raw=true)
