@@ -25,8 +25,8 @@ JSON object contains:
   [data/coins-with-time.json.txt](https://github.com/rsimon/mis-lva/blob/master/data/coins-with-time.json.txt.zip?raw=true)
 
 Both datasets are identical, except that the "Timeline" data excludes all records that have no
-date information. The "Map" dataset contains 74.142 records with a total of 118.420 images. The
-"Timeline" dataset contains 59.079 records with a total of 88.838 images.
+date information. The "Map" dataset contains 74.142 records with a total of 118.420 image URLs. The
+"Timeline" dataset contains 59.079 records with a total of 88.838 image URLs.
 
 ## Sample Record
 
