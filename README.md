@@ -1,6 +1,6 @@
 # MIS-LVA Image Dataset
 
-This dataset contains metada records of (mostly) historic coins. Each records includes a
+This dataset contains metada records of (mostly) historic coins. Each record includes a
 geographical coordinate (or a bounding box), which represents the find spot. Most of the records
 also include a time interval, which represents the dating of the coin.
 
