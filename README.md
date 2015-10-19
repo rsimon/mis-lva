@@ -14,7 +14,7 @@ JSON object contains:
   (in this case min_lon = max_lon, min_lat = max_lat)
 * temporal bounds - this is always given as an interval of integer numbers ([proleptic Gregorian
   calendar](https://en.wikipedia.org/wiki/Proleptic_Gregorian_calendar) years, minus denotes BCE
-  dates)
+  dates), although it can be a single year (in this case from = to)
 * image URLs - always given as an array, with at least on URL
 
 ## Files
